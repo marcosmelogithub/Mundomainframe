@@ -1,9 +1,9 @@
-# z/OS do IBM z17
+# 01. z/OS do IBM z17
 ---
 
 >O ***z/OS rodando no IBM z17*** representa o ápice da computação de missão crítica, combinando décadas de estabilidade com inovações disruptivas em Inteligência Artificial e segurança. No Banco Mercantil, esse sistema operacional é o "cérebro" que orquestra o hardware de última geração.
 
-#### 1. Visão Estratégica (O Valor para o Negócio)**
+#### 1. Visão Estratégica (O Valor para o Negócio)
 
 - **Disponibilidade "Seven-Nines" (99,99999%):** O z/OS é projetado para que o banco nunca pare. Ele permite atualizações de hardware e software sem interromper as transações dos clientes, algo vital para uma instituição financeira.
 
@@ -13,7 +13,7 @@
 
 - **Prontidão Quântica:** Estrategicamente, o z/OS já protege os dados contra "ataques futuros" de computadores quânticos, garantindo a longevidade e a conformidade regulatória do banco.
 
-#### 2. Visão Técnica (As Engrenagens do Sistema)**
+#### 2. Visão Técnica (As Engrenagens do Sistema)
 
 - **Aceleração de IA Nativa (Telum II):** O z/OS no z17 é otimizado para explorar o acelerador de IA integrado ao processador Telum II. Tecnicamente, isso permite que o sistema execute modelos de Deep Learning (inferência) dentro do ciclo da transação, com latência inferior a 1ms, sem precisar enviar dados para um servidor externo.
 
