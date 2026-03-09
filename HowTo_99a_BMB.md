@@ -10,3 +10,9 @@
 ---
 
 - **Hardware:** IBM z17. O banco atualizou seu parque tecnológico em 2025 para este modelo, que é equipado com o processador Telum II. Essa máquina permite ao banco processar bilhões de operações de inferência por dia com latência mínima (cerca de 1 milissegundo), integrando Inteligência Artificial (IA) diretamente no "core" bancário.
+
+- **Destaque Tecnológico:** O uso do z17 foca em segurança quântica (preparação para futuras ameaças de computação quântica) e detecção de fraudes em tempo real, o que é crucial para o público-alvo do banco (aposentados e pensionistas).
+
+---
+##### Sistema Operacional e Software
+---
