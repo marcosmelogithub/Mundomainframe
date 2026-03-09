@@ -1,4 +1,4 @@
-# z/OS Coonect
+# z/OS Connect
 ---
 >O z/OS Connect é, tecnicamente, a camada de software que transforma o mainframe de uma "caixa preta" em um provedor de serviços de nuvem padrão de mercado.
 
