@@ -1,5 +1,5 @@
 # z/OS Connect
----
+----
 >O z/OS Connect é, tecnicamente, a camada de software que transforma o mainframe de uma "caixa preta" em um provedor de serviços de nuvem padrão de mercado.
 
 **Como funciona:** No passado, para um sistema externo (como o aplicativo do banco no Google Cloud) falar com o mainframe, era necessário usar protocolos complexos e proprietários. O z/OS Connect elimina isso. Ele atua como um "tradutor" em tempo real.
