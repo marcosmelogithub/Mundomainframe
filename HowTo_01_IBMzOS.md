@@ -1,4 +1,4 @@
-# 01. z/OS do IBM z17
+# 01. zOS do IBM z17
 ---
 
 >O ***z/OS rodando no IBM z17*** representa o ápice da computação de missão crítica, combinando décadas de estabilidade com inovações disruptivas em Inteligência Artificial e segurança. No Banco Mercantil, esse sistema operacional é o "cérebro" que orquestra o hardware de última geração.
