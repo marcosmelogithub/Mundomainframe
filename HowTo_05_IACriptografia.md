@@ -16,7 +16,7 @@ Em servidores comuns, quando o sistema precisa realizar uma análise de fraude o
 
 O Telum II possui uma arquitetura de cache revolucionária. Enquanto um processador Intel topo de linha pode ter cerca de 60 MB a 100 MB de cache, o design do z17 permite um Cache Virtual L3 e L4 massivo.
 
->**Telum II:** 360 MB de L2 (baixíssima latência) e até 2.88 GB de cache L4 por gaveta de processadores.
+>- **Telum II:** 360 MB de L2 (baixíssima latência) e até 2.88 GB de cache L4 por gaveta de processadores.
 >**x86:** Geralmente limitado a algumas centenas de MB de L3, com latência muito superior.
 
 Significa que o banco de dados (Db2) consegue manter muito mais informações "pertinho" do processador, evitando buscas lentas na memória RAM principal.
