@@ -8,4 +8,4 @@
 
 **Hardware Dedicado (HSM):** O z17 possui placas de segurança (Crypto Express 8S) que geram e armazenam essas chaves quânticas em um ambiente físico inviolável. Se alguém tentar abrir a placa fisicamente, ela "se apaga" para proteger o segredo.
 
-**Assinaturas Digitais Seguras:** Além de proteger os dados guardados, a segurança quântica no z17 garante que as transações e contratos assinados digitalmente pelo banco hoje permaneçam válidos e autênticos por décadas, sem risco de falsificação futura.
+**Assinaturas Digitais Seguras:** Além de proteger os dados guardados, a segurança quântica no z17 garante que as transações e contratos assinados digitalmente pela instituição hoje permaneçam válidos e autênticos por décadas, sem risco de falsificação futura.

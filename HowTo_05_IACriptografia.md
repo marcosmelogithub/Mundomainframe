@@ -3,7 +3,7 @@
 ---
 
 #### 1. Latência de Inferência de IA e Criptografia
-Em servidores comuns, quando o sistema precisa realizar uma análise de fraude ou uma criptografia pesada, o dado precisa viajar do processador para uma placa externa (GPU ou HSM). No Telum II, isso acontece "dentro de casa".
+Em servidores x86, quando o sistema precisa realizar uma análise de fraude ou uma criptografia pesada, o dado precisa viajar do processador para uma placa externa (GPU ou HSM). No Telum II, isso acontece "dentro de casa".
 
 | Característica | Telum II (IBM z17) | Servidor x86 + GPU/HSM |
 | :-- | :-- | :-- |

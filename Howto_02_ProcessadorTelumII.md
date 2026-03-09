@@ -16,7 +16,7 @@ Como o Telum II atua especificamente no processamento das chaves de segurança e
 
 - **Eficiência Matemática:** Algoritmos quânticos exigem cálculos muito mais complexos que o RSA tradicional. O Telum II possui instruções de hardware específicas para acelerar esses cálculos de matrizes e polinômios.
 
-- **Assinaturas Digitais em Larga Escala:** No Banco Mercantil, isso significa que milhares de contratos e transações PIX podem ser assinados digitalmente com proteção quântica simultaneamente, sem criar "filas" de processamento.
+- **Assinaturas Digitais em Larga Escala:** Isso significa que milhares de contratos e transações podem ser assinados digitalmente com proteção quântica simultaneamente, sem criar "filas" de processamento.
 
 **3. O Coprocessador Crypto Express 8S**
 >Embora o Telum II faça o "trabalho pesado" de processamento, ele trabalha em conjunto com o módulo Crypto Express 8S.
