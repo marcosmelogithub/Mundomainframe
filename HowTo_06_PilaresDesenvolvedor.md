@@ -100,7 +100,7 @@ Exemplo: TSO LISTCAT LEVEL(MEU.NOME) na linha de comando de qualquer painel.
 
 >**Endevor ou Changeman:** Gerenciadores de Versão
 
-- **IBM Debug Tool ou Intertest:** Depuradores (Debuggers)
+> **IBM Debug Tool ou Intertest:** Depuradores (Debuggers)
 
 >**IDCAMS, IEBGENER e ferramentas de SORT (SyncSort/DFSORT):** Utilitários de Sistema
 
