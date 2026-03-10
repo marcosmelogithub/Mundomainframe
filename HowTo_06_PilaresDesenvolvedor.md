@@ -25,7 +25,7 @@
 ---
 
 - **z/OS:** O sistema operacional dominante. É preciso entender conceitos de endereçamento, subsistemas e como o hardware se comunica com o software.
-
+<br>
 - **TSO/ISPF:** A interface de "linha de comando" e menus. É por onde o desenvolvedor navega em arquivos, edita código e submete tarefas.
 >O TSO (Time Sharing Option) é, em termos simples, o ambiente que permite que múltiplos usuários acessem e interajam com o sistema operacional z/OS simultaneamente de forma interativa.
 >
@@ -35,7 +35,8 @@
 >|:--|:--|:--|:--|
 >|Antes do TSO, o mainframe era puramente batch (você mandava um cartão e esperava o resultado). O TSO permitiu que o desenvolvedor digitasse comandos e recebesse respostas imediatas.|Através do "Ready mode", você executa comandos para gerenciar arquivos (datasets), submeter jobs ou verificar o status de tarefas.|Quase todo desenvolvedor usa o TSO apenas como a "porta de entrada" para carregar o ISPF (a interface de menus e painéis), mas o TSO continua rodando por trás de tudo.|Cada desenvolvedor possui sua própria sessão TSO, com limites de memória e recursos definidos pelo administrador do sistema.|
 >
->### Comandos Principais
+>**Comandos Principais**
+>
 >**1. Manipulação de Datasets (Arquivos)**
 >
 >|Comando|Definição|
