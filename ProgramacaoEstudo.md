@@ -2,7 +2,8 @@
 ---
 1. Curso Mainframe (Udemy)
 2. Curso COBOL (Udemy)
-3. BigQuery
-4. Linux
-5. DB2
-6. z/OS
+3. Python
+4. BigQuery
+5. Linux
+6. DB2
+7. z/OS
