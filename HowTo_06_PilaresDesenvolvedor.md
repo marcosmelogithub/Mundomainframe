@@ -31,7 +31,8 @@
 O TSO (Time Sharing Option) é, em termos simples, o ambiente que permite que múltiplos usuários acessem e interajam com o sistema operacional z/OS simultaneamente de forma interativa.
 
 Se fizermos uma analogia com sistemas modernos, o TSO funciona como o Terminal do Linux ou o Prompt de Comando do Windows, mas otimizado para a arquitetura de mainframe.
-**Principais caracterísitcas**
+
+**Principais características**
 |Interatividade|Comandos|Hospedeiro|Sessão|
 |:--|:--|:--|:--|
 |Antes do TSO, o mainframe era puramente batch (você mandava um cartão e esperava o resultado). O TSO permitiu que o desenvolvedor digitasse comandos e recebesse respostas imediatas.|Através do "Ready mode", você executa comandos para gerenciar arquivos (datasets), submeter jobs ou verificar o status de tarefas.|Quase todo desenvolvedor usa o TSO apenas como a "porta de entrada" para carregar o ISPF (a interface de menus e painéis), mas o TSO continua rodando por trás de tudo.|Cada desenvolvedor possui sua própria sessão TSO, com limites de memória e recursos definidos pelo administrador do sistema.|
