@@ -45,7 +45,7 @@ Linguagem procedural destinada a tratamento de arquivos sequenciais/VSAM, pilhas
 Zowe é uma estrutura de software livre integrada para z/OS. Oferece interfaces modernas para interagir com o z/OS como Visual Studio,alternativa ao tradicional TSO. O Zowe é composto por vários componentes, cada um melhorando a capacidade de aprendizagem, acessibilidade e possibilidade de desenvolvimento de mainframe.
 
 ---
-### Áreas de Atuação versus Conhecimento
+### Pilares principais para 
 ---
 
 | Recurso | Desenvolvimento | Suporte | Produção |
